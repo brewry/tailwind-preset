@@ -1,0 +1,23 @@
+{
+  "name": "@brewry/tailwind-preset",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brewry/tailwind-preset.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brewry/tailwind-preset/issues"
+  },
+  "homepage": "https://github.com/brewry/tailwind-preset#readme",
+  "peerDependencies": {
+    "autoprefixer": "^10.0.2",
+    "tailwindcss": "^2.0.1"
+  }
+}
