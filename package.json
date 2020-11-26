@@ -1,8 +1,12 @@
 {
   "name": "@brewry/tailwind-preset",
   "version": "0.1.0",
-  "description": "",
+  "description": "Tailwind preset for Brewry",
   "main": "index.js",
+  "private": false,
+  "publishConfig": {
+    "access": "public"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -10,8 +14,8 @@
     "type": "git",
     "url": "git+https://github.com/brewry/tailwind-preset.git"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Chris Magnussen <chris@hirvi.no>",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/brewry/tailwind-preset/issues"
   },

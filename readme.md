@@ -6,7 +6,7 @@ This is a tailwindcss configuration that is shared across all [@brewry](https://
 ## Installation
 
 ```shell
-$ npm i @brewry/tailwind-preset
+$ yarn add -D @brewry/tailwind-preset
 ```
 
 ## Usage
